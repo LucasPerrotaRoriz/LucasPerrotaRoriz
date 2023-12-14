@@ -73,7 +73,7 @@ See [my portfolio](https://www.lucasperrotaroriz.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Tech </strong> - Responsive promotional email for a Japanese and Karaoke restaurant</p>
+        <p><strong>HTML, CSS, Testi@ </strong> - Responsive promotional email for a Japanese and Karaoke restaurant</p>
     </td>
  <!-- Project 03 : END -->
 
@@ -91,7 +91,7 @@ See [my portfolio](https://www.lucasperrotaroriz.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Tech </strong> - Responsive promotional email for a Japanese and Karaoke restaurant</p>
+        <p><strong>HTML, CSS, Testi@ </strong> - Responsive promotional email for a Japanese and Karaoke restaurant</p>
     </td>
 <!-- Project 04 : BEGIN -->
   </tr>
