@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Software engineer at 100Devs. Email Developer and Content Editor. I'm a curious and hard working develoeper who wishes to continuously improve 
+Software engineer at 100Devs. Email Developer and Content Editor. I'm a curious and hard working develoeper who wishes to continuously improve and learn new things. 
 
 See [my portfolio](https://www.lucasperrotaroriz.com) for more information!
 
