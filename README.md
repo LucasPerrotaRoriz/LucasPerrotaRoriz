@@ -11,9 +11,6 @@
   <a href="https://twitter.com/perrota_lucas" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>
 
 Software engineer at 100Devs. Email Developer and Content Editor. I'm a curious and hard working develoeper who wishes to continuously improve 
@@ -84,12 +81,13 @@ See [my portfolio](https://www.lucasperrotaroriz.com) for more information!
 <td width="50%" valign="top">
       <h3 align="center">Coffee Break - Newsletter Email</h3>
       <br />
-        <a target="_blank" href="https://github.com/LucasPerrotaRoriz/MailBakery-CoffeeBreak">
+        <a target="_blank" href="https://lucasperrotaroriz.github.io/MailBakery-CoffeeBreak/">
           <img  width="450px" height="450px" src="https://github.com/LucasPerrotaRoriz/MailBakery-CoffeeBreak/raw/main/images/coffee.gif?raw=true" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://lucasperrotaroriz.github.io/MailBakery-CoffeeBreak/" target="_blank">
+          
+  <a href="https://github.com/LucasPerrotaRoriz/MailBakery-CoffeeBreak" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
